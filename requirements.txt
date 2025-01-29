@@ -1,0 +1,11 @@
+colorlog
+colorama
+nltk
+requests
+pandas
+web3
+eth-account
+pyuseragents
+aptos-sdk==0.6.3
+selenium
+selenium-wire
